@@ -1,0 +1,53 @@
+# ---------- Build directories ----------
+build/
+out/
+bin/
+obj/
+Debug/
+x64/
+x86/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+
+# ---------- Compiled artifacts ----------
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.exe
+*.pdb
+*.ilk
+*.exp
+*.idb
+*.pch
+
+# ---------- IDE / Editor ----------
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ---------- OS ----------
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# ---------- Logs / temp ----------
+*.log
+*.tmp
+*.cache
+
+# ---------- User-specific ----------
+input_big.txt
+*.bak
